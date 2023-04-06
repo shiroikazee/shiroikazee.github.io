@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Shiroikazee
+title: Shiroikaze
 
 # Your name to show in the footer
 author: Shiroikazee
@@ -20,11 +20,11 @@ author: Shiroikazee
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Tentang Saya: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Thanks to: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -51,7 +51,7 @@ round-avatar: true
 social-network-links:
   email: "shiroiclick@protonmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: 100067935330862
   github: shiroikazee
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -100,7 +100,7 @@ url-pretty: "shiroikazee.github.io"
 excerpt_length: 0
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
